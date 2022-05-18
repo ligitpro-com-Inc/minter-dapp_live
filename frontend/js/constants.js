@@ -2,7 +2,11 @@ const contractAddress = "0x2cC20E075f5D5C58Abb101Af6635938b57558c27"; //Replace 
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Reckless Fame's NFT Project!!";
+<<<<<<< HEAD
 const welcome_h2 = "Connect to Wallet to Get Started";
+=======
+const welcome_h2 = "Connect to MetaMask to Get Started";
+>>>>>>> 8141d3e50064fd8e5e9a08e283ab219c2648d038
 const welcome_p = 'The Reckless Fame NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://ligitnft.io"  target="_blank" rel="noopener noreferrer">LigitNFT</a> Web3 Site.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
