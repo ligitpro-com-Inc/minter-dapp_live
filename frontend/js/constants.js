@@ -3,13 +3,13 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Reckless Fame's NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Reckless Fame NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/ligitnft"  target="_blank" rel="noopener noreferrer">LigitNFT</a> YouTube channel.';
+const welcome_p = 'The Reckless Fame NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://ligitnft.io"  target="_blank" rel="noopener noreferrer">LigitNFT</a> Web3 Site.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
-const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
+const p_presale_coming_soon = "We are working hard to launch the Reckless Fame NFT Collection. Stay tuned for updates!";
 const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
