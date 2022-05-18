@@ -45,7 +45,7 @@ const extraMetadata = {
 // NFTPort Info
 
 // ** REQUIRED **
-const AUTH = process.env.NFTPORT_API_KEY; // Set this in the .env file to prevent exposing your API key when pushing to Github
+const AUTH = '86a61069-13f2-4307-8c3a-8357daffe352'; // Set this in the .env file to prevent exposing your API key when pushing to Github
 const LIMIT = 1; // Your API key rate limit
 const CHAIN = 'polygon'; // only rinkeby or polygon
 
