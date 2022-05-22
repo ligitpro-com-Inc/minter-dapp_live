@@ -1,9 +1,9 @@
 const contractAddress = "0x923a2a982fAdB718979561CCAb371524646deF0C"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Reckless Fame's NFT Project!!";
+const welcome_h1 = "Welcome to the Reckless Fame's 3000 Unique NFTs with Rarables";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Reckless Fame NFT Project';
+const welcome_p = 'The Reckless Fame 3000 NFT Project';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
